@@ -7,9 +7,18 @@
 **一般好用的win软件**
 
 -  [【Rolan】 - 桌面图标管理工具](https://getrolan.com/)
-
 - [【choco】- windows包管理工具](https://chocolatey.org/)
 - [【screentogif】- 录制gif的好用的工具](https://www.screentogif.com/)
+- 【Cmder】- 命令行工具
+- 【Xshell】- 远程连接ssh工具
+- 【Xftp】- 远程连接ftp工具
+- 【WinSCP】- ftp工具，微软官方，很好用
+- [【bandicam】*- 非常好用的windows的录制屏幕视频的软件](https://www.bandicam.cn/downloads/ing/)
+- [【Snipaste 】*-  Snipaste 是一个简单但强大的截图工具 ，非常好用方便](https://zh.snipaste.com/download.html)
+- 【Typora】- markdown编辑工具，好用
+- 【Everything】- windows快速全文搜索工具，好用
+- 【Postman】- 接口调试工具
+- 【GitHub Desktop】- github官方桌面工具
 
 **浏览器系列**
 
