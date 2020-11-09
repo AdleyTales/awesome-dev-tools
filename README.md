@@ -2,12 +2,54 @@
 > 好的开发工具集合
 
 
-## Windows系统
+## ¤ Windows系统
 
-## 好用的浏览器
-- 
+**一般好用的win软件**
+
+-  [【Rolan】 - 桌面图标管理工具](https://getrolan.com/)
+
+- [【choco】- windows包管理工具](https://chocolatey.org/)
+- [【screentogif】- 录制gif的好用的工具](https://www.screentogif.com/)
+
+**浏览器系列**
+
+- 【Chrome】
+- 【Firefox】
+- 【Edge新版本】
 
 
-## Chrome浏览器插件
+## ¤ Chrome浏览器插件
 - 【Gitako】 - github的文件树浏览，体验很好
-- 
+- 【Window Resizer】 - 更换浏览器窗口分辨率大小
+- 【iGG谷歌访问助手】- 谷歌官方的爬梯子工具，随意google查资料
+
+- 【axure-rp-extension-for-ch】- chrome的RP扩展，可以直接打开RP导出的html原型文件
+- 【vue-devtools】- Vue开发的调试工具
+- 【百度药丸】- 百度屏蔽广告工具
+- 【bilibili下载助手】- B站视频下载工具
+- 【FeHelper(前端助手)】- 前端开发工具 
+
+## ¤ NPM包
+
+- 【crypto-js】- javascript的加密包¤¤
+- 【echarts】- 图表库
+- 【js-yaml】- js解析yaml文件包
+- 【QRCode.js】- javascript生成二维码包 [https://codemirror.net/](https://codemirror.net/)
+- 【zrender】- 轻量级的canvas库
+- 【codemirror】- 代码编辑工具，代码高亮， 基于web的代码编辑工具 
+- 【md5】- md5生成工具包
+- 【axios】- http数据交互包
+- 【dateformat】- 日期格式化包
+- 【vue-clipboard2】-   基于vue的点击拷贝文字库 
+- 【 normalize.css 】-  用现代标准统一各大浏览器样式的css库 
+- 【hexo】-  hexo搭建自己的博客系统 
+
+## ¤ 值得推荐的web网站（在线）链接
+
+- [【必应词典】- 在线翻译软件](https://cn.bing.com/dict?FORM=Z9LH3)
+- [【teambition】- 在线的项目管理软件](https://www.teambition.com/)
+
+- [【tapd】 - 项目管理软件](https://www.tapd.cn/official/index)
+
+- [【process.on】- 画流程图的在线工具](https://www.processon.com/)
+
