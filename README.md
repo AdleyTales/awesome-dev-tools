@@ -43,7 +43,7 @@
 - 【crypto-js】- javascript的加密包¤¤
 - 【echarts】- 图表库
 - 【js-yaml】- js解析yaml文件包
-- 【QRCode.js】- javascript生成二维码包 [https://codemirror.net/](https://codemirror.net/)
+-  [【QRCode.js】- javascript生成二维码包](https://codemirror.net/)
 - 【zrender】- 轻量级的canvas库
 - 【codemirror】- 代码编辑工具，代码高亮， 基于web的代码编辑工具 
 - 【md5】- md5生成工具包
@@ -52,6 +52,7 @@
 - 【vue-clipboard2】-   基于vue的点击拷贝文字库 
 - 【 normalize.css 】-  用现代标准统一各大浏览器样式的css库 
 - 【hexo】-  hexo搭建自己的博客系统 
+- [【minireset.css】-  很小的现代CSS重置样式库 ](https://github.com/jgthms/minireset.css)
 
 ## ¤ 值得推荐的web网站（在线）链接
 
