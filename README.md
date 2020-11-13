@@ -53,6 +53,7 @@
 - 【 normalize.css 】-  用现代标准统一各大浏览器样式的css库 
 - 【hexo】-  hexo搭建自己的博客系统 
 - [【minireset.css】-  很小的现代CSS重置样式库 ](https://github.com/jgthms/minireset.css)
+- [【bpmn-js | bpmn-js-properties-panel | camunda-bpmn-moddle】- 在线画工作流、流程图的JavaScript库 ](https://demo.bpmn.io/)
 
 ## ¤ 值得推荐的web网站（在线）链接
 
