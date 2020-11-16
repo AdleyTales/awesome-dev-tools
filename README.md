@@ -52,6 +52,11 @@
 - 【vue-clipboard2】-   基于vue的点击拷贝文字库 
 - 【 normalize.css 】-  用现代标准统一各大浏览器样式的css库 
 - 【hexo】-  hexo搭建自己的博客系统 
+- 【pdfjs-dist】 - 在线预览pdf文件
+
+## ¤ JavaScript库
+
+- [【PDF.js 】- 在线预览pdf文件](https://mozilla.github.io/pdf.js/getting_started/#download)
 
 ## ¤ 值得推荐的web网站（在线）链接
 
