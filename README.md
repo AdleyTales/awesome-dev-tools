@@ -55,6 +55,8 @@
 - [【minireset.css】-  很小的现代CSS重置样式库 ](https://github.com/jgthms/minireset.css)
 - [【bpmn-js | bpmn-js-properties-panel | camunda-bpmn-moddle】- 在线画工作流、流程图的JavaScript库 ](https://demo.bpmn.io/) 
 - 【pdfjs-dist】 - 在线预览pdf文件
+- 【mockjs】- mock假数据库
+-  [【express-mockjs】- 集成express的mockjs，很方便mock-server](https://github.com/52cik/express-mockjs/blob/HEAD/README.zh-CN.md)
 
 ## ¤ JavaScript库
 - [【PDF.js 】- 在线预览pdf文件](https://mozilla.github.io/pdf.js/getting_started/#download)
