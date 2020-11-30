@@ -57,6 +57,7 @@
 - 【pdfjs-dist】 - 在线预览pdf文件
 - 【mockjs】- mock假数据库
 -  [【express-mockjs】- 集成express的mockjs，很方便mock-server](https://github.com/52cik/express-mockjs/blob/HEAD/README.zh-CN.md)
+- [【hotkeys-js】- JS中绑定热键的库，捕获键盘输入的键](https://www.npmjs.com/package/hotkeys-js)
 
 ## ¤ JavaScript库
 - [【PDF.js 】- 在线预览pdf文件](https://mozilla.github.io/pdf.js/getting_started/#download)
